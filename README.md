@@ -7,3 +7,28 @@ CRUD PHP MYSQL Sencillo
 
 
 Con el fin de poner a funcionar este software hay que sacarle una copia y la carpeta pegarla en el servidor PHP que tengas instalado, luego ingresar al proyecto y abrir el index.php, tambien es necesario tener un motor de base de datos instalado como Mysql.
+
+Luego de tener instalado un motor de bases de datos, podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
+
+```Terminal de comandos
+cd
+php -v
+mysql -V
+mysql --version
+```
+
+Despues de haber instalado python y confirmar la version, instalamos git y descargamos el proyecto.
+
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/CRUD_Php_MySql.git
+git push origin master
+```
+
+
+
+
+
+
+
