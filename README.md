@@ -23,6 +23,7 @@ Despues de haber instalado python y confirmar la version, instalamos git y desca
 git --version
 git init
 git clone https://github.com/guevaraStian/CRUD_Php_MySql.git
+cd CRUD_Php_MySql
 git push origin master
 ```
 
